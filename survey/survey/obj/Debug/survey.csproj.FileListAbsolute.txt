@@ -1,0 +1,13 @@
+C:\Users\김재관\source\repos\survey\survey\bin\Debug\survey.exe.config
+C:\Users\김재관\source\repos\survey\survey\bin\Debug\survey.exe
+C:\Users\김재관\source\repos\survey\survey\bin\Debug\survey.pdb
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.csproj.AssemblyReference.cache
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.csproj.SuggestedBindingRedirects.cache
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.Form1.resources
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.Properties.Resources.resources
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.csproj.GenerateResource.cache
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.csproj.CoreCompileInputs.cache
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.exe
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.pdb
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.Form2.resources
+C:\Users\김재관\source\repos\survey\survey\obj\Debug\survey.Form3.resources
